@@ -16,18 +16,7 @@
   </a>
 </p>
 
-<p align="left">
-  <a href="https://twitter.com/your_twitter" target="blank">
-    <img src="https://img.shields.io/twitter/follow/your_twitter?logo=twitter&style=for-the-badge" alt="Twitter" />
-  </a>
-</p>
 
-- 🔭 I’m currently working on **AI & Full Stack Projects**  
-- 🌱 I’m currently learning **Advanced Machine Learning & AI**  
-- 👯 I’m looking to collaborate on **Open Source Python & Web Projects**  
-- 📝 I regularly write articles on [Your Blog / Portfolio](#)  
-- 📫 How to reach me: **your-email@example.com**  
-- ⚡ Fun fact: **I love experimenting with AI and coding tricks**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
