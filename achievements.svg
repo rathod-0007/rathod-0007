@@ -1,0 +1,132 @@
+<svg width="860" height="340" viewBox="0 0 860 340" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .bg { fill: #0d1117; }
+      .border { fill: none; stroke: #00ff41; stroke-width: 1.5; opacity: 0.4; }
+      .prompt { fill: #00ff41; font-family: 'Courier New', Courier, monospace; font-size: 15px; font-weight: bold; }
+      .label { fill: #00cc33; font-family: 'Courier New', Courier, monospace; font-size: 13px; }
+      .check { fill: #00ff41; font-family: 'Courier New', Courier, monospace; font-size: 13px; }
+      .dim { fill: #005500; font-family: 'Courier New', Courier, monospace; font-size: 13px; }
+      .cursor { fill: #00ff41; font-family: 'Courier New', Courier, monospace; font-size: 15px; }
+
+      .line1 { animation: fadein 0.4s 0.2s both; }
+      .line2 { animation: fadein 0.4s 0.7s both; }
+      .line3 { animation: fadein 0.4s 1.1s both; }
+      .line4 { animation: fadein 0.4s 1.5s both; }
+      .line5 { animation: fadein 0.4s 1.9s both; }
+      .line6 { animation: fadein 0.4s 2.3s both; }
+      .line7 { animation: fadein 0.4s 2.7s both; }
+      .line8 { animation: fadein 0.4s 3.1s both; }
+      .line9 { animation: fadein 0.4s 3.5s both; }
+      .blink { animation: fadein 0.4s 3.9s both, blink 1.1s 3.9s step-end infinite; }
+      .scanline { animation: scan 6s linear infinite; }
+
+      @keyframes fadein {
+        from { opacity: 0; transform: translateX(-6px); }
+        to   { opacity: 1; transform: translateX(0); }
+      }
+      @keyframes blink {
+        0%, 100% { opacity: 1; }
+        50%       { opacity: 0; }
+      }
+      @keyframes scan {
+        0%   { transform: translateY(-10px); opacity: 0.04; }
+        100% { transform: translateY(340px); opacity: 0.04; }
+      }
+      @keyframes glow {
+        0%, 100% { opacity: 0.85; }
+        50%       { opacity: 1; }
+      }
+      .glow { animation: glow 3s ease-in-out infinite; }
+    </style>
+
+    <!-- scanline gradient overlay -->
+    <linearGradient id="scanGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"   stop-color="#00ff41" stop-opacity="0"/>
+      <stop offset="50%"  stop-color="#00ff41" stop-opacity="0.06"/>
+      <stop offset="100%" stop-color="#00ff41" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- background -->
+  <rect width="860" height="340" class="bg" rx="6"/>
+
+  <!-- subtle grid lines -->
+  <line x1="0" y1="42" x2="860" y2="42" stroke="#00ff41" stroke-width="0.5" opacity="0.12"/>
+  <rect x="1" y="1" width="858" height="338" class="border" rx="5"/>
+
+  <!-- corner decorators -->
+  <text x="14" y="28" fill="#00ff41" font-family="Courier New" font-size="12" opacity="0.5">┌─</text>
+  <text x="828" y="28" fill="#00ff41" font-family="Courier New" font-size="12" opacity="0.5">─┐</text>
+  <text x="14" y="328" fill="#00ff41" font-family="Courier New" font-size="12" opacity="0.5">└─</text>
+  <text x="828" y="328" fill="#00ff41" font-family="Courier New" font-size="12" opacity="0.5">─┘</text>
+
+  <!-- header bar label -->
+  <text x="430" y="28" fill="#00ff41" font-family="Courier New" font-size="11" text-anchor="middle" opacity="0.45">[ ACHIEVEMENT_LOG.SYS ]</text>
+
+  <!-- scanline sweep -->
+  <rect width="860" height="40" fill="url(#scanGrad)" class="scanline"/>
+
+  <!-- LINE 1: command prompt -->
+  <text x="36" y="72" class="prompt glow line1">🏆  root@rathod:~$ ./achievements --mode=elite</text>
+
+  <!-- LINE 2: separator -->
+  <text x="36" y="96" class="dim line2">──────────────────────────────────────────────────────────────────</text>
+
+  <!-- LINE 3 -->
+  <text x="36" y="122" class="check line3">
+    <tspan fill="#00ff41">[✓]</tspan>
+    <tspan fill="#00cc33" dx="8">Amazon ML Hackathon 2025</tspan>
+    <tspan fill="#005f00" dx="6">···</tspan>
+    <tspan fill="#00ff41" dx="6">Top 0.3%</tspan>
+    <tspan fill="#00cc33">  —  Rank 236 / 82,787 globally</tspan>
+  </text>
+
+  <!-- LINE 4 -->
+  <text x="36" y="152" class="check line4">
+    <tspan fill="#00ff41">[✓]</tspan>
+    <tspan fill="#00cc33" dx="8">SIAAH 2025 Hackathon</tspan>
+    <tspan fill="#005f00" dx="6">·············</tspan>
+    <tspan fill="#00ff41" dx="6">WINNER</tspan>
+    <tspan fill="#00cc33">  —  Google Gemini 2.5 Flash</tspan>
+  </text>
+
+  <!-- LINE 5 -->
+  <text x="36" y="182" class="check line5">
+    <tspan fill="#00ff41">[✓]</tspan>
+    <tspan fill="#00cc33" dx="8">Google Ambassador</tspan>
+    <tspan fill="#005f00" dx="6">················</tspan>
+    <tspan fill="#00ff41" dx="6">Celestial Badge</tspan>
+    <tspan fill="#00cc33">  —  1,500+ Activations</tspan>
+  </text>
+
+  <!-- LINE 6 -->
+  <text x="36" y="212" class="check line6">
+    <tspan fill="#00ff41">[✓]</tspan>
+    <tspan fill="#00cc33" dx="8">arXiv Publication</tspan>
+    <tspan fill="#005f00" dx="6">·················</tspan>
+    <tspan fill="#00ff41" dx="6">CycleGAN</tspan>
+    <tspan fill="#00cc33">  —  92% Perceptual Similarity (FID)</tspan>
+  </text>
+
+  <!-- LINE 7 -->
+  <text x="36" y="242" class="check line7">
+    <tspan fill="#00ff41">[✓]</tspan>
+    <tspan fill="#00cc33" dx="8">Hacktoberfest 2025</tspan>
+    <tspan fill="#005f00" dx="6">···············</tspan>
+    <tspan fill="#00ff41" dx="6">Super Contributor</tspan>
+    <tspan fill="#00cc33">  —  6 Merged PRs · LangChain</tspan>
+  </text>
+
+  <!-- LINE 8 -->
+  <text x="36" y="272" class="check line8">
+    <tspan fill="#ffa500">[!]</tspan>
+    <tspan fill="#cc8800" dx="8">IJST Journal</tspan>
+    <tspan fill="#4a3a00" dx="6">······················</tspan>
+    <tspan fill="#ffa500" dx="6">PENDING</tspan>
+    <tspan fill="#cc8800">  —  CycleGAN Research Under Review</tspan>
+  </text>
+
+  <!-- LINE 9: cursor prompt -->
+  <text x="36" y="312" class="prompt blink">root@rathod:~$ _</text>
+</svg>
