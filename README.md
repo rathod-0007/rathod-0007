@@ -59,37 +59,16 @@ Passionate Programmer from India
 
 [![@rathod0007's Holopin board](https://holopin.me/rathod0007)](https://holopin.io/@rathod0007)
 
-name: 🐍 Generate Snake Animation
+## 🐍 Contribution Snake
 
-on:
-  schedule:
-    - cron: "0 0 * * *"   # Runs daily at midnight UTC
-  workflow_dispatch:
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rathod-0007/rathod-0007/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rathod-0007/rathod-0007/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/rathod-0007/rathod-0007/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
-
-    steps:
-      - name: Generate Snake SVG
-        uses: Platane/snk@v3
-        with:
-          github_user_name: rathod-0007
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 
 <h1 align="center">Show some ❤️ by starring some of the repositories!</h1>
