@@ -59,10 +59,12 @@ Passionate Programmer from India
 
 [![@rathod0007's Holopin board](https://holopin.me/rathod0007)](https://holopin.io/@rathod0007)
 
-## 🐍 Contribution Snake
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rathod-0007/rathod-0007/output/github-snake.gif" alt="snake gif" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rathod-0007/rathod-0007/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rathod-0007/rathod-0007/output/github-snake.svg" />
+    <img alt="github snake" src="https://raw.githubusercontent.com/rathod-0007/rathod-0007/output/github-snake.svg" />
+  </picture>
 </p>
 
 
