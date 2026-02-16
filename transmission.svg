@@ -1,0 +1,51 @@
+<svg width="700" height="160" viewBox="0 0 700 160" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .bg   { fill: #0d1117; }
+      .line { fill: #005500; font-family: 'Courier New', Courier, monospace; font-size: 13px; }
+      .bold { fill: #00ff41; font-family: 'Courier New', Courier, monospace; font-size: 13px; font-weight: bold; }
+      .border { fill: none; stroke: #00ff41; stroke-width: 1; opacity: 0.25; }
+
+      .l1 { animation: fi 0.3s 0.1s both; }
+      .l2 { animation: fi 0.3s 0.5s both; }
+      .l3 { animation: fi 0.3s 0.8s both; }
+      .l4 { animation: fi 0.3s 1.1s both; }
+      .l5 { animation: fi 0.3s 1.4s both; }
+
+      @keyframes fi {
+        from { opacity: 0; }
+        to   { opacity: 1; }
+      }
+
+      .pulse {
+        animation: pulse 3s ease-in-out infinite;
+      }
+      @keyframes pulse {
+        0%, 100% { opacity: 0.18; }
+        50%       { opacity: 0.35; }
+      }
+    </style>
+  </defs>
+
+  <!-- background -->
+  <rect width="700" height="160" class="bg" rx="5"/>
+  <rect x="1" y="1" width="698" height="158" class="border" rx="4"/>
+
+  <!-- dim border pulse -->
+  <rect x="1" y="1" width="698" height="158" fill="none" stroke="#00ff41" stroke-width="1" rx="4" class="pulse"/>
+
+  <!-- LINE 1: top separator -->
+  <text x="350" y="36" text-anchor="middle" class="line l1"># ════════════════════════════════════════════════════════</text>
+
+  <!-- LINE 2 -->
+  <text x="350" y="64" text-anchor="middle" class="bold l2">#   // END OF TRANSMISSION</text>
+
+  <!-- LINE 3 -->
+  <text x="350" y="88" text-anchor="middle" class="bold l3">#   &gt;&gt; SESSION CLOSED</text>
+
+  <!-- LINE 4 -->
+  <text x="350" y="112" text-anchor="middle" class="bold l4">#   &gt;&gt; ALL SYSTEMS NOMINAL</text>
+
+  <!-- LINE 5: bottom separator -->
+  <text x="350" y="140" text-anchor="middle" class="line l5"># ════════════════════════════════════════════════════════</text>
+</svg>
