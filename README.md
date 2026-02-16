@@ -33,61 +33,57 @@
 </div>
 
 ---
-## 🖥️ `root@rathod-0007:~$ ./whoami`
+## 🖥️ `root@rathod-0007:~$ ./whoAmI`
+```bash
+# ═══════════════════════════════════════════════════
+# OPERATOR PROFILE -- PAVAN KUMAR NAIK RATHOD
+# ═══════════════════════════════════════════════════
+#!/bin/bash
 
-<div align="center">
+USER="Pavan Kumar Naik Rathod"
+ROLE="AI Engineer -- GenAI and Agentic Systems"
+LOCATION="Hyderabad, Telangana, IN -- [17.3850 N, 78.4867 E]"
+EDUCATION="IIIT Nagpur -- B.Tech CSE -- 2022 to 2026"
+STATUS="Building Autonomous Multi-Agent AI Systems"
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=20&duration=1500&pause=99999&color=00FF00&center=true&vCenter=true&multiline=false&repeat=false&width=780&height=35&lines=%23%20%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90" />
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=20&duration=1500&pause=99999&color=00FF00&center=true&vCenter=true&multiline=false&repeat=false&width=780&height=35&lines=%23%20OPERATOR%20PROFILE%20--%20PAVAN%20KUMAR%20NAIK%20RATHOD" />
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=20&duration=1500&pause=99999&color=00FF00&center=true&vCenter=true&multiline=false&repeat=false&width=780&height=35&lines=%23%20%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90" />
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=20&duration=1500&pause=99999&color=00FF00&center=true&vCenter=true&multiline=false&repeat=false&width=780&height=35&lines=%23%21%2Fbin%2Fbash" />
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=20&duration=1500&pause=99999&color=00FF00&center=true&vCenter=true&multiline=false&repeat=false&width=780&height=18&lines=+" />
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=20&duration=1500&pause=99999&color=00FF00&center=true&vCenter=true&multiline=false&repeat=false&width=780&height=35&lines=USER%3D%22Pavan%20Kumar%20Naik%20Rathod%22" />
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=20&duration=1500&pause=99999&color=00FF00&center=true&vCenter=true&multiline=false&repeat=false&width=780&height=35&lines=ROLE%3D%22AI%20Engineer%20--%20GenAI%20and%20Agentic%20Systems%22" />
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=20&duration=1500&pause=99999&color=00FF00&center=true&vCenter=true&multiline=false&repeat=false&width=780&height=35&lines=LOCATION%3D%22Hyderabad%2C%20Telangana%2C%20IN%20--%20%5B17.3850%20N%2C%2078.4867%20E%5D%22" />
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=20&duration=1500&pause=99999&color=00FF00&center=true&vCenter=true&multiline=false&repeat=false&width=780&height=35&lines=EDUCATION%3D%22IIIT%20Nagpur%20--%20B.Tech%20CSE%20--%202022%20to%202026%22" />
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=20&duration=1500&pause=99999&color=00FF00&center=true&vCenter=true&multiline=false&repeat=false&width=780&height=35&lines=STATUS%3D%22Building%20Autonomous%20Multi-Agent%20AI%20Systems%22" />
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=20&duration=1500&pause=99999&color=00FF00&center=true&vCenter=true&multiline=false&repeat=false&width=780&height=18&lines=+" />
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=20&duration=1500&pause=99999&color=00FF00&center=true&vCenter=true&multiline=false&repeat=false&width=780&height=35&lines=echo%20%22%5B%2B%5D%20Authenticating%20operator...%20%20%20%20ACCESS%20GRANTED%22" />
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=20&duration=1500&pause=99999&color=00FF00&center=true&vCenter=true&multiline=false&repeat=false&width=780&height=35&lines=echo%20%22%5B%2B%5D%20Loading%20mission%20profile...%20%20%20%20DONE%22" />
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=20&duration=1500&pause=99999&color=00FF00&center=true&vCenter=true&multiline=false&repeat=false&width=780&height=35&lines=echo%20%22%5B%2B%5D%20Agentic%20stack%3A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20ONLINE%22" />
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=20&duration=1500&pause=99999&color=00FF00&center=true&vCenter=true&multiline=false&repeat=false&width=780&height=35&lines=echo%20%22%5B%2B%5D%20RAG%20pipeline%3A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20ACTIVE%22" />
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=20&duration=1500&pause=99999&color=00FF00&center=true&vCenter=true&multiline=false&repeat=false&width=780&height=35&lines=echo%20%22%5B%2B%5D%20LangGraph%20runtime%3A%20%20%20%20%20%20%20%20%20%20%20%20RUNNING%22" />
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=20&duration=1500&pause=99999&color=00FF00&center=true&vCenter=true&multiline=false&repeat=false&width=780&height=35&lines=echo%20%22%5B%2B%5D%20Gemini%20API%3A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20CONNECTED%22" />
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=20&duration=1500&pause=99999&color=00FF00&center=true&vCenter=true&multiline=false&repeat=false&width=780&height=18&lines=+" />
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=20&duration=1500&pause=99999&color=00FF00&center=true&vCenter=true&multiline=false&repeat=false&width=780&height=35&lines=%23%20%E2%94%8C%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%20SYSTEM%20METRICS%20%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%90" />
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=20&duration=1500&pause=99999&color=00FF00&center=true&vCenter=true&multiline=false&repeat=false&width=780&height=35&lines=%23%20%E2%94%82%20%20Task%20Switching%20Reduced%20%20%20%3A%20%20%2035%25%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%E2%94%82" />
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=20&duration=1500&pause=99999&color=00FF00&center=true&vCenter=true&multiline=false&repeat=false&width=780&height=35&lines=%23%20%E2%94%82%20%20Hallucination%20Reduction%20%20%3A%20%20%2045%25%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%E2%94%82" />
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=20&duration=1500&pause=99999&color=00FF00&center=true&vCenter=true&multiline=false&repeat=false&width=780&height=35&lines=%23%20%E2%94%82%20%20RAG%20Query%20Latency%20%20%20%20%20%20%20%20%3A%20%20%20less%20than%20800ms%20%20%20%20%20%20%20%E2%94%82" />
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=20&duration=1500&pause=99999&color=00FF00&center=true&vCenter=true&multiline=false&repeat=false&width=780&height=35&lines=%23%20%E2%94%82%20%20Hackathon%20Rank%20%28Amazon%29%20%20%3A%20%20%20236%20of%2082787%20Top%200.3%25%20%E2%94%82" />
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=20&duration=1500&pause=99999&color=00FF00&center=true&vCenter=true&multiline=false&repeat=false&width=780&height=35&lines=%23%20%E2%94%82%20%20Gemini%20Activations%20%20%20%20%20%20%20%3A%20%20%201500%2B%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%E2%94%82" />
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=20&duration=1500&pause=99999&color=00FF00&center=true&vCenter=true&multiline=false&repeat=false&width=780&height=35&lines=%23%20%E2%94%82%20%20Concurrent%20Users%20Served%20%20%3A%20%20%20500%2B%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%E2%94%82" />
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=20&duration=1500&pause=99999&color=00FF00&center=true&vCenter=true&multiline=false&repeat=false&width=780&height=35&lines=%23%20%E2%94%94%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%98" />
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=20&duration=1500&pause=99999&color=00FF00&center=true&vCenter=true&multiline=false&repeat=false&width=780&height=18&lines=+" />
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=20&duration=1500&pause=99999&color=00FF00&center=true&vCenter=true&multiline=false&repeat=false&width=780&height=35&lines=echo%20%22%5B%E2%9C%93%5D%20All%20systems%20nominal%20--%20OPERATOR%20READY%22" />
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=20&duration=1500&pause=99999&color=00FF00&center=true&vCenter=true&multiline=false&repeat=false&width=780&height=35&lines=exit%200" />
+echo "[+] Authenticating operator...     ACCESS GRANTED"
+echo "[+] Loading mission profile...     DONE"
+echo "[+] Agentic stack:                 ONLINE"
+echo "[+] RAG pipeline:                  ACTIVE"
+echo "[+] LangGraph runtime:             RUNNING"
+echo "[+] Gemini API:                    CONNECTED"
 
-</div>
+# ┌─────────────────── SYSTEM METRICS ───────────────────┐
+# │  Task Switching Reduced   :   35%                    │
+# │  Hallucination Reduction  :   45%                    │
+# │  RAG Query Latency        :   less than 800ms        │
+# │  Hackathon Rank (Amazon)  :   236 of 82787 Top 0.3%  │
+# │  Gemini Activations       :   1500+                  │
+# │  Concurrent Users Served  :   500+                   │
+# └──────────────────────────────────────────────────────┘
+
+echo "[✓] All systems nominal -- OPERATOR READY"
+exit 0
+```
 
 ---
 
 ## 💾 `root@rathod-0007:~$ ./tech_stack.sh`
+```bash
+# ═══════════════════════════════════════════════════
 
-<div align="center">
+echo "[+] Booting AI/GenAI/RAG subsystems..."
+echo "[+] Connecting to LangGraph runtime..."
+echo "[+] Loading vector stores: FAISS | Pinecone | ChromaDB"
+echo "[+] Spawning multi-agent orchestration layer..."
+echo "[+] LLM endpoints: Gemini | GPT-4 | Llama3 | Groq"
+echo "[+] RAG pipeline: ACTIVE -- latency < 800ms"
+echo "[+] ReAct framework: ONLINE -- 8 workflows ready"
+echo "[+] Agentic tools: 10+ registered via LangChain"
+echo "[✓] ALL MODULES LOADED -- STACK ONLINE"
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=20&duration=1500&pause=99999&color=00FF00&center=true&vCenter=true&multiline=false&repeat=false&width=780&height=35&lines=%23%20%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90" />
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=20&duration=1500&pause=99999&color=00FF00&center=true&vCenter=true&multiline=false&repeat=false&width=780&height=35&lines=echo%20%22%5B%2B%5D%20Booting%20AI%2FGenAI%2FRAG%20subsystems...%22" />
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=20&duration=1500&pause=99999&color=00FF00&center=true&vCenter=true&multiline=false&repeat=false&width=780&height=35&lines=echo%20%22%5B%2B%5D%20Connecting%20to%20LangGraph%20runtime...%22" />
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=20&duration=1500&pause=99999&color=00FF00&center=true&vCenter=true&multiline=false&repeat=false&width=780&height=35&lines=echo%20%22%5B%2B%5D%20Loading%20vector%20stores%3A%20FAISS%20%7C%20Pinecone%20%7C%20ChromaDB%22" />
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=20&duration=1500&pause=99999&color=00FF00&center=true&vCenter=true&multiline=false&repeat=false&width=780&height=35&lines=echo%20%22%5B%2B%5D%20Spawning%20multi-agent%20orchestration%20layer...%22" />
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=20&duration=1500&pause=99999&color=00FF00&center=true&vCenter=true&multiline=false&repeat=false&width=780&height=35&lines=echo%20%22%5B%2B%5D%20LLM%20endpoints%3A%20Gemini%20%7C%20GPT-4%20%7C%20Llama3%20%7C%20Groq%22" />
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=20&duration=1500&pause=99999&color=00FF00&center=true&vCenter=true&multiline=false&repeat=false&width=780&height=35&lines=echo%20%22%5B%2B%5D%20RAG%20pipeline%3A%20ACTIVE%20--%20latency%20%3C%20800ms%22" />
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=20&duration=1500&pause=99999&color=00FF00&center=true&vCenter=true&multiline=false&repeat=false&width=780&height=35&lines=echo%20%22%5B%2B%5D%20ReAct%20framework%3A%20ONLINE%20--%208%20workflows%20ready%22" />
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=20&duration=1500&pause=99999&color=00FF00&center=true&vCenter=true&multiline=false&repeat=false&width=780&height=35&lines=echo%20%22%5B%2B%5D%20Agentic%20tools%3A%2010%2B%20registered%20via%20LangChain%22" />
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=20&duration=1500&pause=99999&color=00FF00&center=true&vCenter=true&multiline=false&repeat=false&width=780&height=35&lines=echo%20%22%5B%E2%9C%93%5D%20ALL%20MODULES%20LOADED%20--%20STACK%20ONLINE%22" />
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=20&duration=1500&pause=99999&color=00FF00&center=true&vCenter=true&multiline=false&repeat=false&width=780&height=35&lines=%23%20%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90" />
-
-</div>
+# ═══════════════════════════════════════════════════
+```
 
 <!-- ── ROW 1 : LANGUAGES & CORE ── -->
 **`[CORE_LANG]`**
@@ -299,38 +295,26 @@
   </tr>
 </table>
 
-<div align="center">
+```bash
+echo "[✓] All modules loaded. Stack online."
+```
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=24&duration=1500&pause=99999&color=00FF00&center=true&vCenter=true&multiline=false&repeat=false&width=900&height=38&lines=echo%20%22%5B%E2%9C%93%5D%20All%20modules%20loaded.%20Stack%20online.%22" />
-
-</div>
 
 ---
-
 ## 📂 `root@rathod-0007:~$ ls -la /projects/`
 
-<div align="center">
+```
+total 6
+drwx------ 1 pavan agents 4096 Feb 2026 ./
+drwxr-xr-x 1 root  root   4096 Nov 2022 ../
+drwx------ 1 pavan agents 4096 Feb 2026 BlogAgentic/
+drwx------ 1 pavan agents 4096 Jan 2026 Agentic-Chatbot/
+drwx------ 1 pavan agents 4096 Dec 2025 Agentic-TravX/
+drwx------ 1 pavan agents 4096 Oct 2025 ScholarRank-AI/
+drwx------ 1 pavan agents 4096 Oct 2025 IMDB-Sentiment/
+drwx------ 1 pavan agents 4096 Apr 2025 Photo-to-Ghibli/
+```
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&duration=1500&pause=99999&color=00FF00&center=true&vCenter=true&multiline=false&repeat=false&width=900&height=38&lines=%23%20%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90" />
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&duration=1500&pause=99999&color=00FF00&center=true&vCenter=true&multiline=false&repeat=false&width=900&height=38&lines=root%40rathod-0007%3A~%24%20ls%20-la%20%2Fprojects%2F" />
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&duration=1500&pause=99999&color=00FF00&center=true&vCenter=true&multiline=false&repeat=false&width=900&height=38&lines=%23%20%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90" />
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&duration=99&pause=99999&color=00FF00&center=true&vCenter=true&multiline=false&repeat=false&width=900&height=16&lines=+" />
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&duration=1500&pause=99999&color=00FF00&center=true&vCenter=true&multiline=false&repeat=false&width=900&height=38&lines=total%206%20%20%7C%20%20owner%3A%20pavan%20%20%7C%20%20clearance%3A%20LEVEL-5%20%20%7C%20%20status%3A%20ACTIVE" />
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&duration=99&pause=99999&color=00FF00&center=true&vCenter=true&multiline=false&repeat=false&width=900&height=16&lines=+" />
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&duration=1500&pause=99999&color=00FF00&center=true&vCenter=true&multiline=false&repeat=false&width=900&height=38&lines=drwx------%20%20pavan%20%20agents%20%20Feb%202026%20%20.%2F%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%5BACTIVE%20BASE%20DIR%5D" />
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&duration=1500&pause=99999&color=00FF00&center=true&vCenter=true&multiline=false&repeat=false&width=900&height=38&lines=drwxr-xr-x%20%20root%20%20%20root%20%20%20%20Nov%202022%20%20..%2F%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%5BSYSTEM%20ROOT%20--%20IIIT%20Nagpur%202022%5D" />
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&duration=99&pause=99999&color=00FF00&center=true&vCenter=true&multiline=false&repeat=false&width=900&height=16&lines=+" />
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&duration=1500&pause=99999&color=00FF00&center=true&vCenter=true&multiline=false&repeat=false&width=900&height=38&lines=drwx------%20%20pavan%20%20agents%20%20Feb%202026%20%20BlogAgentic%2F%20%20%20%20%20%20%20%20%20%3E%3E%20LangGraph%20%C2%B7%20Groq%20LPU%20%C2%B7%20FastAPI" />
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&duration=1500&pause=99999&color=00FF00&center=true&vCenter=true&multiline=false&repeat=false&width=900&height=38&lines=drwx------%20%20pavan%20%20agents%20%20Jan%202026%20%20Agentic-Chatbot%2F%20%20%20%20%20%3E%3E%20Tavily%20%C2%B7%20Streaming%20%C2%B7%2099.2%25%20uptime" />
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&duration=1500&pause=99999&color=00FF00&center=true&vCenter=true&multiline=false&repeat=false&width=900&height=38&lines=drwx------%20%20pavan%20%20agents%20%20Dec%202025%20%20Agentic-TravX%2F%20%20%20%20%20%20%20%3E%3E%205%20Agents%20%C2%B7%20LangChain%20%C2%B7%20%3C%202s" />
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&duration=1500&pause=99999&color=00FF00&center=true&vCenter=true&multiline=false&repeat=false&width=900&height=38&lines=drwx------%20%20pavan%20%20agents%20%20Oct%202025%20%20ScholarRank-AI%2F%20%20%20%20%20%20%3E%3E%20FAISS%20%C2%B7%20Gemini%20%C2%B7%20500%2B%20users" />
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&duration=1500&pause=99999&color=00FF00&center=true&vCenter=true&multiline=false&repeat=false&width=900&height=38&lines=drwx------%20%20pavan%20%20agents%20%20Oct%202025%20%20IMDB-Sentiment%2F%20%20%20%20%20%20%3E%3E%20LSTM%20%C2%B7%20TF%20%C2%B7%2088.5%25%20accuracy" />
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&duration=1500&pause=99999&color=00FF00&center=true&vCenter=true&multiline=false&repeat=false&width=900&height=38&lines=drwx------%20%20pavan%20%20agents%20%20Apr%202025%20%20Photo-to-Ghibli%2F%20%20%20%20%20%3E%3E%20CycleGAN%20%C2%B7%20arXiv%20%C2%B7%2092%25%20FID" />
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&duration=99&pause=99999&color=00FF00&center=true&vCenter=true&multiline=false&repeat=false&width=900&height=16&lines=+" />
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&duration=1500&pause=99999&color=00FF00&center=true&vCenter=true&multiline=false&repeat=false&width=900&height=38&lines=echo%20%22%5B%E2%9C%93%5D%206%20classified%20projects%20mounted%20--%20all%20ops%20nominal%22" />
-
-</div>
-<br>
 
 **`> cat BlogAgentic/README.md`**
 
