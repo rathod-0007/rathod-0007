@@ -1,182 +1,452 @@
+<p align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+</p>
+
+
+
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=52&pause=1000&color=00FF00&center=true&vCenter=true&width=900&lines=INITIALIZING+SYSTEM...;ROOT+ACCESS+GRANTED;WELCOME%2C+OPERATOR+PAVAN;AI+ENGINEER+%2F%2F+AGENTIC+SYSTEMS;LANGRAPH+%2F%2F+GEMINI+%2F%2F+RAG;BUILDING+THE+FUTURE+OF+AI_" />
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Pavan%20Kumar%20Naik%20Rathod&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=36&desc=AI%20Engineer%20%E2%80%82%C2%B7%E2%80%82%20GenAI%20%E2%80%82%C2%B7%E2%80%82%20Agentic%20Systems%20%E2%80%82%C2%B7%E2%80%82%20LLM%20Architecture&descSize=14&descAlignY=58&descAlign=50" />
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=rathod-0007&label=NET_TRAFFIC&color=00ff00&style=plastic" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/rathod-0007?label=FOLLOWERS&color=00ff00&style=plastic&labelColor=000000" />
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+production-grade+Agentic+AI+systems;LangGraph+%E2%80%A2+Multi-Agent+Orchestration+%E2%80%A2+ReAct+Framework;Hybrid+RAG+Pipelines+%E2%80%A2+FAISS+%E2%80%A2+Semantic+Search;Top+0.3%25+Amazon+ML+Hackathon+%E2%80%94+236+of+82%2C787;SIAAH+2025+Hackathon+Winner+%E2%80%A2+Google+Gemini" alt="Typing SVG" />
+<br>
 
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rathod-pavan-kumar/)
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/RathodPavan0007)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@rathodpavan0007)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rathodpavan2292@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=rathod-0007&style=flat-square&color=58A6FF&label=Profile+Views)](https://github.com/rathod-0007)
-
+<div align="center">
+  <a href="https://www.linkedin.com/in/rathod-pavan-kumar/">
+    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00&labelColor=000000" />
+  </a>
+  <a href="https://github.com/rathod-0007">
+    <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00FF00&labelColor=000000" />
+  </a>
+  <a href="https://x.com/RathodPavan0007">
+    <img src="https://img.shields.io/badge/TWITTER__X-000000?style=for-the-badge&logo=x&logoColor=00FF00&labelColor=000000" />
+  </a>
+  <a href="https://www.youtube.com/@rathodpavan0007">
+    <img src="https://img.shields.io/badge/YOUTUBE-000000?style=for-the-badge&logo=youtube&logoColor=00FF00&labelColor=000000" />
+  </a>
+  <a href="mailto:rathodpavan2292@gmail.com">
+    <img src="https://img.shields.io/badge/ENCRYPTED__MAIL-000000?style=for-the-badge&logo=gmail&logoColor=00FF00&labelColor=000000" />
+  </a>
 </div>
 
 ---
 
-## ◈ About
+## 🖥️ `root@rathod:~$ ./whoami`
 
-<img align="right" width="280" src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" />
+```bash
+#!/bin/bash
+# ═══════════════════════════════════════════════════
+#   OPERATOR PROFILE — PAVAN KUMAR NAIK RATHOD
+# ═══════════════════════════════════════════════════
 
-**AI Engineer** specializing in Generative AI, Multi-Agent Systems, and LLM orchestration.
-Currently pursuing **B.Tech in CSE** at **IIIT Nagpur** (2022–2026).
+USER="Pavan Kumar Naik Rathod"
+ROLE="AI Engineer — GenAI & Agentic Systems"
+LOCATION="Hyderabad, Telangana, IN"
+EDUCATION="IIIT Nagpur · B.Tech CSE · 2022–2026"
+STATUS="Building Autonomous Multi-Agent AI Systems"
 
-**What I build:**
-- Production-grade agentic AI with **LangGraph + Gemini**
-- Hybrid RAG pipelines — **35% less hallucination**, **<800ms** on 10K+ docs
-- Multi-agent workflows with **ReAct** across enterprise use cases
-- Scalable deployments on **FastAPI + Docker + GCP**
+echo "[+] Operator profile loaded..."
+echo "[+] Current mission: Scaling LangGraph Agents"
+echo "[+] Agentic stack: ONLINE"
+echo "[+] RAG pipeline: ACTIVE"
 
-**Highlights:**
-- 🥇 **Top 0.3%** — Amazon ML Hackathon (236 / 82,787)
-- 🏆 **SIAAH 2025 Hackathon Winner** — Google Gemini 2.5 Flash
-- 🌐 **1,500+ Gemini activations** — Google Ambassador, Celestial Badge
-- 📄 **arXiv publication** — CycleGAN style transfer, 92% FID
+# ┌─────────────────────────────────────────┐
+# │           SYSTEM METRICS                │
+# ├─────────────────────────────────────────┤
+# │  Task Switching Reduced  :  35%         │
+# │  Hallucination Reduction :  45%         │
+# │  RAG Query Latency       :  < 800ms     │
+# │  Hackathon Rank (Amazon) :  236/82,787  │
+# │  Gemini Activations      :  1,500+      │
+# │  Concurrent Users        :  500+        │
+# └─────────────────────────────────────────┘
 
-<br clear="right"/>
+exit 0
+```
 
 ---
 
-## ◈ AI & LLM Stack
+## 💾 `root@rathod:~$ ./tech_stack.sh`
+
+```bash
+echo "[+] Loading AI/GenAI/RAG modules..."
+echo "[✓] All systems nominal."
+```
+
+<!-- ── ROW 1 : LANGUAGES & CORE ── -->
+**`[CORE_LANG]`**
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="Python" />
+      <br><b>Python</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript" />
+      <br><b>JavaScript</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="REST API" />
+      <br><b>REST API</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
+      <br><b>GitHub</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Docker" />
+      <br><b>Docker</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br><b>Git</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+      <br><b>Linux</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+      <br><b>Postman</b>
+    </td>
+  </tr>
+</table>
+
+<!-- ── ROW 2 : AI FRAMEWORKS ── -->
+**`[GEN_AI & AGENTIC]`**
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
+      <br><b>PyTorch</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
+      <br><b>TensorFlow</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="Scikit-learn" />
+      <br><b>Scikit-learn</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/LangChain-ffffff?style=flat&logo=chainlink&logoColor=000" width="65" height="48" alt="LangChain" />
+      <br><b>LangChain</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/LangGraph-000000?style=flat&logo=python&logoColor=00ff00" width="65" height="48" alt="LangGraph" />
+      <br><b>LangGraph</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=000" width="65" height="48" alt="HuggingFace" />
+      <br><b>HuggingFace</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white" width="65" height="48" alt="Ollama" />
+      <br><b>Ollama</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" width="65" height="48" alt="Streamlit" />
+      <br><b>Streamlit</b>
+    </td>
+  </tr>
+</table>
+
+<!-- ── ROW 3 : LLMs ── -->
+**`[LLM_MODELS]`**
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google&logoColor=white" width="65" height="48" alt="Gemini" />
+      <br><b>Gemini 2.5</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/GPT--4-412991?style=flat&logo=openai&logoColor=white" width="65" height="48" alt="GPT-4" />
+      <br><b>GPT-4</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/Llama_3-0467DF?style=flat&logo=meta&logoColor=white" width="65" height="48" alt="Llama 3" />
+      <br><b>Llama 3</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/Groq_LPU-F55036?style=flat&logo=groq&logoColor=white" width="65" height="48" alt="Groq" />
+      <br><b>Groq LPU</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/Tavily-00C800?style=flat&logoColor=white" width="65" height="48" alt="Tavily" />
+      <br><b>Tavily API</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" width="65" height="48" alt="OpenAI" />
+      <br><b>OpenAI</b>
+    </td>
+  </tr>
+</table>
+
+<!-- ── ROW 4 : VECTOR DBs ── -->
+**`[VECTOR_DB & RAG]`**
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/FAISS-009688?style=flat&logo=facebook&logoColor=white" width="65" height="48" alt="FAISS" />
+      <br><b>FAISS</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/Pinecone-00C800?style=flat&logoColor=white" width="65" height="48" alt="Pinecone" />
+      <br><b>Pinecone</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/ChromaDB-1565C0?style=flat&logo=databricks&logoColor=white" width="65" height="48" alt="ChromaDB" />
+      <br><b>ChromaDB</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+      <br><b>pgvector</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <br><b>MongoDB</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+      <br><b>MySQL</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+      <br><b>Redis</b>
+    </td>
+  </tr>
+</table>
+
+<!-- ── ROW 5 : ML TOOLS ── -->
+**`[ML_TOOLS & DATA]`**
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" width="65" height="48" alt="Pandas" />
+      <br><b>Pandas</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" width="65" height="48" alt="NumPy" />
+      <br><b>NumPy</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=flat&logo=plotly&logoColor=black" width="65" height="48" alt="Matplotlib" />
+      <br><b>Matplotlib</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/Word2Vec-FF6F00?style=flat&logo=tensorflow&logoColor=white" width="65" height="48" alt="Word2Vec" />
+      <br><b>Word2Vec</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/LSTM-6A0DAD?style=flat&logo=tensorflow&logoColor=white" width="65" height="48" alt="LSTM" />
+      <br><b>LSTM</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black" width="65" height="48" alt="Transformers" />
+      <br><b>Transformers</b>
+    </td>
+  </tr>
+</table>
+
+<!-- ── ROW 6 : DEPLOY & CLOUD ── -->
+**`[DEPLOY & CLOUD]`**
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
+      <br><b>FastAPI</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="GCP" />
+      <br><b>GCP</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+      <br><b>AWS</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure" />
+      <br><b>Azure</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/Appwrite-F02E65?style=flat&logo=appwrite&logoColor=white" width="65" height="48" alt="Appwrite" />
+      <br><b>Appwrite</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+      <br><b>React</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+      <br><b>Figma</b>
+    </td>
+  </tr>
+</table>
+
+```bash
+echo "[✓] All modules loaded. Stack online."
+```
+
+---
+
+## 📂 `root@rathod:~$ ls -la /projects/`
+
+```
+total 6
+drwx------ 1 pavan agents 4096 Feb 2026 ./
+drwxr-xr-x 1 root  root   4096 Nov 2022 ../
+drwx------ 1 pavan agents 4096 Feb 2026 BlogAgentic/
+drwx------ 1 pavan agents 4096 Jan 2026 Agentic-Chatbot/
+drwx------ 1 pavan agents 4096 Dec 2025 Agentic-TravX/
+drwx------ 1 pavan agents 4096 Oct 2025 ScholarRank-AI/
+drwx------ 1 pavan agents 4096 Oct 2025 IMDB-Sentiment/
+drwx------ 1 pavan agents 4096 Apr 2025 Photo-to-Ghibli/
+```
+
+<br>
+
+**`> cat BlogAgentic/README.md`**
+
+```diff
++ PROTOCOL : Multi-Lingual Content Generation Agent
++ KERNEL   : LangGraph State Machine · FastAPI · Groq LPU
++ LANG     : English / Hindi / French (conditional routing)
++ STATS    : Sub-2s generation · 40% round-trip latency reduction
+```
+[![ACCESS_REPO](https://img.shields.io/badge/ACCESS__REPO-000000?style=for-the-badge&logo=github&logoColor=00FF00&labelColor=000000)](https://github.com/rathod-0007/BlogAgentic)
+
+<br>
+
+**`> cat Agentic-Chatbot/README.md`**
+
+```diff
++ PROTOCOL : Autonomous Web Search & News Summarization
++ KERNEL   : LangGraph · Tavily API · Streaming Memory
++ USERS    : 200+ daily active users
++ STATS    : 99.2% uptime · 4.3/5 rating · Streamlit Cloud
+```
+[![ACCESS_REPO](https://img.shields.io/badge/ACCESS__REPO-000000?style=for-the-badge&logo=github&logoColor=00FF00&labelColor=000000)](https://github.com/rathod-0007)
+
+<br>
+
+**`> cat Agentic-TravX/README.md`**
+
+```diff
++ PROTOCOL : Multi-Agent Travel Planning System
++ KERNEL   : LangChain · 5 Specialized Agents (Flight/Hotel/Budget/Itinerary)
++ STATS    : Full travel plan < 2 seconds · 95% API success rate
+```
+[![ACCESS_REPO](https://img.shields.io/badge/ACCESS__REPO-000000?style=for-the-badge&logo=github&logoColor=00FF00&labelColor=000000)](https://github.com/rathod-0007)
+
+<br>
+
+**`> cat ScholarRank-AI/README.md`**
+
+```diff
++ PROTOCOL : Multi-Utility AI Agent (10+ tools unified)
++ KERNEL   : LangGraph · FAISS Hybrid RAG · Gemini API
++ STATS    : 35% task-switching reduction · 500+ concurrent users
+```
+[![ACCESS_REPO](https://img.shields.io/badge/ACCESS__REPO-000000?style=for-the-badge&logo=github&logoColor=00FF00&labelColor=000000)](https://github.com/rathod-0007)
+
+<br>
+
+**`> cat Photo-to-Ghibli/README.md`**
+
+```diff
++ PROTOCOL : CycleGAN Artistic Style Transfer
++ STATUS   : arXiv Preprint Published · Under Review @ IJST
++ METRIC   : 92% Perceptual Similarity (FID Score)
+```
+[![ACCESS_REPO](https://img.shields.io/badge/ACCESS__REPO-000000?style=for-the-badge&logo=github&logoColor=00FF00&labelColor=000000)](https://github.com/rathod-0007)
+
+---
+
+## 📊 `root@rathod:~$ htop --user=rathod-0007`
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rathod-0007&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=00ff00&icon_color=00ff00&text_color=ffffff&include_all_commits=true&count_private=true&rank_icon=github" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rathod-0007&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=00ff00&text_color=ffffff&langs_count=6&count_private=true" height="160" />
+</div>
 
-#### Agentic Frameworks & Orchestration
-[![LangGraph](https://img.shields.io/badge/LangGraph-111827?style=for-the-badge&logo=python&logoColor=58A6FF)](https://github.com/langchain-ai/langgraph)
-[![LangChain](https://img.shields.io/badge/LangChain-1C3A5F?style=for-the-badge&logo=chainlink&logoColor=58A6FF)](https://github.com/langchain-ai/langchain)
-[![RAG](https://img.shields.io/badge/RAG_Pipelines-111827?style=for-the-badge&logo=databricks&logoColor=F97316)](https://github.com/rathod-0007)
-[![ReAct](https://img.shields.io/badge/ReAct_Framework-111827?style=for-the-badge&logo=openapiinitiative&logoColor=A78BFA)](https://github.com/rathod-0007)
-[![Multi-Agent](https://img.shields.io/badge/Multi--Agent_Systems-111827?style=for-the-badge&logo=probot&logoColor=34D399)](https://github.com/rathod-0007)
-
-#### LLMs & Models
-[![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://ai.google.dev)
-[![GPT-4](https://img.shields.io/badge/GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com)
-[![Llama 3](https://img.shields.io/badge/Llama_3-0467DF?style=for-the-badge&logo=meta&logoColor=white)](https://llama.meta.com)
-[![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=111827)](https://huggingface.co)
-[![Groq](https://img.shields.io/badge/Groq_LPU-F55036?style=for-the-badge&logo=groq&logoColor=white)](https://groq.com)
-[![Ollama](https://img.shields.io/badge/Ollama-111827?style=for-the-badge&logo=ollama&logoColor=white)](https://ollama.ai)
-
-#### Vector Search & Memory
-[![FAISS](https://img.shields.io/badge/FAISS-009688?style=for-the-badge&logo=facebook&logoColor=white)](https://faiss.ai)
-[![Pinecone](https://img.shields.io/badge/Pinecone-00C800?style=for-the-badge&logoColor=white)](https://pinecone.io)
-[![ChromaDB](https://img.shields.io/badge/ChromaDB-1565C0?style=for-the-badge&logo=databricks&logoColor=white)](https://trychroma.com)
-[![pgvector](https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/pgvector/pgvector)
-
-#### ML & Deep Learning
-[![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB)](https://python.org)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-111827?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)](https://tensorflow.org)
-[![PyTorch](https://img.shields.io/badge/PyTorch-111827?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)](https://pytorch.org)
-[![Transformers](https://img.shields.io/badge/Transformers-111827?style=for-the-badge&logo=huggingface&logoColor=FFD21E)](https://huggingface.co/docs/transformers)
-[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-111827?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)](https://scikit-learn.org)
-
-#### Deployment & Infrastructure
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com)
-[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io)
-[![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com)
-[![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white)](https://appwrite.io)
-
-#### Frontend
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev)
-[![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Figma](https://img.shields.io/badge/Figma-111827?style=for-the-badge&logo=figma&logoColor=F24E1E)](https://figma.com)
-
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=rathod-0007&theme=radical&hide_border=true&background=000000&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&sideLabels=ffffff&dates=ffffff" />
 </div>
 
 ---
 
-## ◈ GitHub Stats
+## 🌐 `root@rathod:~$ graph --contributions --year=2025`
 
 <div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=rathod-0007&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&include_all_commits=true&count_private=true&rank_icon=github" />
-<img height="160" src="https://nirzak-streak-stats.vercel.app/?user=rathod-0007&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=F97316&currStreakLabel=58A6FF" />
-
-<br/>
-
-<img height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rathod-0007&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8&count_private=true" />
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rathod-0007&bg_color=000000&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true&area_color=003300" />
 </div>
 
 ---
 
-## ◈ Contribution Graph
+## 🕹️ `root@rathod:~$ ./game_snake.exe`
 
 <div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rathod-0007&bg_color=0d1117&color=58A6FF&line=58A6FF&point=F97316&area=true&hide_border=true&area_color=1d3658)](https://github.com/rathod-0007)
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rathod-0007/rathod-0007/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rathod-0007/rathod-0007/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rathod-0007/rathod-0007/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </div>
 
 ---
 
-## ◈ Contribution Snake
+## 🏆 `root@rathod:~$ ./achievements --mode=elite`
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rathod-0007/rathod-0007/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rathod-0007/rathod-0007/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/rathod-0007/rathod-0007/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
+  <img src="https://raw.githubusercontent.com/rathod-0007/rathod-0007/main/achievements.svg" alt="achievements" width="860" />
 </div>
+---
+
+## 📋 `root@rathod:~$ cat achievements.log`
+
+```diff
++ [SUCCESS]  Amazon ML Hackathon 2025 .......... Rank 236 / 82,787 · Top 0.3% globally
++ [SUCCESS]  SIAAH 2025 Hackathon .............. WINNER · Google Gemini 2.5 Flash
++ [SUCCESS]  Google Ambassador ................. Celestial Badge · 1,500+ activations
++ [SUCCESS]  Hacktoberfest 2025 ............... Super Contributor · 6 merged PRs (LangChain)
++ [SUCCESS]  Google × Kaggle AI Intensive ...... Agentic workflows · LLM orchestration
++ [SUCCESS]  HOD Recognition .................. Top-ranked AI capstone · measurable impact
+! [PENDING]  IJST Journal Publication ......... CycleGAN research under review
+```
 
 ---
 
-## ◈ Trophies
+## 🎖️ `root@rathod:~$ cat holopin_board.txt`
 
 <div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=rathod-0007&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/rathod-0007)
-
-</div>
-
----
-
-## ◈ Achievements
-
-| | Achievement | Result |
-|---|---|---|
-| 🥇 | **Amazon ML Hackathon 2025** | Ranked **236 / 82,787** — Top **0.3%** globally |
-| 🏆 | **SIAAH 2025 Hackathon** | **Winner** — Travel AI Agent, Google Gemini 2.5 Flash |
-| 🌐 | **Google Ambassador** | **1,500+** verified Gemini activations — Celestial Badge |
-| 📄 | **arXiv Publication** | CycleGAN — 92% perceptual similarity (FID score) |
-| 🤝 | **Hacktoberfest 2025** | Super Contributor — **6 merged PRs** to LangChain |
-| 🎓 | **HOD Recognition** | Top-ranked AI capstone with measurable business impact |
-| 📚 | **Google × Kaggle Intensive** | Advanced agentic workflows & LLM orchestration |
-
----
-
-## ◈ Key Projects
-
-| Project | Stack | Impact |
-|---|---|---|
-| **[BlogAgentic](https://github.com/rathod-0007/BlogAgentic)** — Multi-Lingual Content Agent | LangGraph · Groq · FastAPI | Sub-2s generation · 40% latency reduction |
-| **Agentic Chatbot** — Web Search & News Summarization | LangGraph · Tavily · Streamlit | 200+ daily users · 99.2% uptime · 4.3★ |
-| **Agentic TravX** — Multi-Agent Travel Planner | LangChain · 5 specialized agents | <2s full plans · 95% API success |
-| **ScholarRank AI** — Multi-Utility Agent | LangGraph · FAISS · Gemini | 35% less task-switching · 500+ users |
-| **IMDB Sentiment** — Deep Learning Classifier | LSTM · TensorFlow · Word2Vec | 88.5% accuracy · 0.87 F1 on 50K reviews |
-| **Photo-to-Ghibli** — CycleGAN Style Transfer | PyTorch · GANs · arXiv | 92% FID perceptual similarity |
-
----
-
-## ◈ Holopin Board
-
-<div align="center">
-
-[![Holopin Board](https://holopin.me/rathod0007)](https://holopin.io/@rathod0007)
-
+  <a href="https://holopin.io/@rathod0007">
+    <img src="https://holopin.me/rathod0007" alt="@rathod0007's Holopin board" />
+  </a>
 </div>
 
 ---
 
 <div align="center">
 
-[![Visitors](https://visitcount.itsvg.in/api?id=rathod-0007&icon=2&color=1)](https://visitcount.itsvg.in)
+```bash
+# ═══════════════════════════════════════════════════
+#   // END OF TRANSMISSION
+#   >> SESSION CLOSED
+#   >> ALL SYSTEMS NOMINAL
+# ═══════════════════════════════════════════════════
+```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+<a href="https://www.linkedin.com/in/rathod-pavan-kumar/">
+  <img src="https://img.shields.io/badge/ESTABLISH_UPLINK-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00&labelColor=000000" />
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=rathod-0007&label=SESSIONS_LOGGED&color=00ff00&style=plastic" />
 
 </div>
