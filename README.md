@@ -14,7 +14,7 @@
 
 <br>
 
-<<div align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/rathod-pavan-kumar/">
     <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00&labelColor=000000" />
   </a>
