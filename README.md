@@ -14,7 +14,7 @@
 
 <br>
 
-<div align="center">
+<<div align="center">
   <a href="https://www.linkedin.com/in/rathod-pavan-kumar/">
     <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00&labelColor=000000" />
   </a>
@@ -27,9 +27,11 @@
   <a href="https://www.youtube.com/@rathodpavan0007">
     <img src="https://img.shields.io/badge/YOUTUBE-000000?style=for-the-badge&logo=youtube&logoColor=00FF00&labelColor=000000" />
   </a>
-[![ENCRYPTED_MAIL](https://img.shields.io/badge/ENCRYPTED__MAIL-000000?style=for-the-badge&logo=gmail&logoColor=00FF00&labelColor=000000)](mailto:rathodpavan2292@gmail.com)
-
+  <a href="mailto:rathodpavan2292@gmail.com">
+    <img src="https://img.shields.io/badge/ENCRYPTED__MAIL-000000?style=for-the-badge&logo=gmail&logoColor=00FF00&labelColor=000000" />
+  </a>
 </div>
+
 
 ---
 ## 🖥️ `root@rathod-0007:~$ ./whoAmI`
