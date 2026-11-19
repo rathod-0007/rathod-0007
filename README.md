@@ -1,4 +1,4 @@
-<h1 align="center">Pavan Kumar Naik Rathod</h1>
+﻿<h1 align="center">Pavan Kumar Naik Rathod</h1>
 <p align="center"><b>Analyst &middot; SQL &amp; Python &middot; Tableau &amp; Power BI &middot; Life-sciences analytics</b><br>
 Hyderabad, India &nbsp;|&nbsp; B.Tech CSE, IIIT Nagpur (2026)</p>
 
@@ -19,11 +19,11 @@ Current focus: **promotion response modeling, HCP targeting, sales force strateg
 
 ## Featured project: [RxLift](https://github.com/rathod-0007/rxlift)
 
-Pharma promotion-response and targeting analytics: *which doctors should a sales team call more, and which less?*
+Pharma promotion-response and targeting analytics: *which doctors should a sales team call more, and which less?*  `[Watch the 3-minute demo](https://github.com/rathod-0007/rxlift/blob/main/demo/RxLift_demo.mp4)`
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rathod-0007/rxlift/main/docs/overview.png" width="49%" alt="RxLift overview">
-  <img src="https://raw.githubusercontent.com/rathod-0007/rxlift/main/docs/incentive.png" width="49%" alt="RxLift incentive plan">
+  <img src="https://raw.githubusercontent.com/rathod-0007/rxlift/main/docs/app/overview.png" width="49%" alt="RxLift overview">
+  <img src="https://raw.githubusercontent.com/rathod-0007/rxlift/main/docs/app/incentive.png" width="49%" alt="RxLift incentive plan">
 </p>
 
 | | |
@@ -36,8 +36,8 @@ Pharma promotion-response and targeting analytics: *which doctors should a sales
 | **Stack** | Python, pandas, NumPy, SQL, FastAPI, Chart.js, Tableau, Power BI |
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rathod-0007/rxlift/main/docs/bi/tableau.png" width="49%" alt="Tableau dashboard">
-  <img src="https://raw.githubusercontent.com/rathod-0007/rxlift/main/docs/bi/powerbi.png" width="49%" alt="Power BI report">
+  <img src="https://raw.githubusercontent.com/rathod-0007/rxlift/main/docs/tableau/11_dashboard_focus_and_incentive.png" width="49%" alt="Tableau dashboard">
+  <img src="https://raw.githubusercontent.com/rathod-0007/rxlift/main/docs/powerbi/1_performance.png" width="49%" alt="Power BI report">
 </p>
 
 ## Skills
